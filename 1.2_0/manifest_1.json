@@ -1,0 +1,16 @@
+{
+   "action": {
+      "default_icon": "images/icon.png",
+      "default_popup": "popup/popup.html"
+   },
+   "description": "Access Z-Library in just one click. Our extension will redirect you to an available library website in seconds.",
+   "icons": {
+      "128": "images/icon.png",
+      "48": "images/icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsXEq4CWgUzHcNhbK7RIXgyaGbTatE4k/oIAIvXmNoH/kn4hzwFqio7QH60mkr3m8x/1FKYnkJjx8EZcdMbU3ZMfv96Y5EKnxZ63Im0CRlR1NG7V4Lupj/n7a1px/BbASymKsjc8fZnvQSSZZ35UTQ+rQXYXs4JfnqRngtrgyGiJyftY7xef3KUiaG0xku6RWcfVHEEsYao7SVCwCwoyD4IKxz6NKxEoaFun6MLkQRERLdPNkH9oolyBmdmf7KQBqp6NPYcZKaCTCxKaAmW2Zq03jsMt++cEjDyLRIMh15tY6nZHpwqI1gm22o/rZCp9Qz6gxzIupWkyLVMw0P80IJQIDAQAB",
+   "manifest_version": 3,
+   "name": "Z-Library Finder",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2"
+}
