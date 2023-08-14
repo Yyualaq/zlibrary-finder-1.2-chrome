@@ -10,4 +10,7 @@
 旧版chrome:
 打开chrome，点击右上角三点-更多工具-扩展程序-（打开开发者模式）加载已解压的扩展程序，然后选择文件夹即可
 
+文件夹网盘地址：链接：https://pan.baidu.com/s/1zyxgMG7G-fpIknHkEocbGw 
+提取码：1234
+
 安装完成后，点击zlibrary finder扩展程序，自动跳转到可用网址
