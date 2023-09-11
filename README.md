@@ -17,4 +17,4 @@
 
 https://zlibrary-china.se/z-access#desktop_app_tab
 
-singlelogin.re
+https://singlelogin.re
