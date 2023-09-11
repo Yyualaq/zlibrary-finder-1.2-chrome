@@ -16,3 +16,4 @@
 安装完成后，点击zlibrary finder扩展程序，自动跳转到可用网址
 
 https://zlibrary-china.se/z-access#desktop_app_tab
+singlelogin.re
